@@ -7,8 +7,3 @@
 
 [[plugins]]
   package = "netlify-plugin-cache-nextjs"
-
-[[plugins]]
-  package = "netlify-plugin-cypress"
-  [plugins.inputs]
-    record = true
